@@ -15,7 +15,7 @@ Windows Server administration, AD, and Group Policy.
 
 ## Background
 Marine Corps veteran transitioning into IT.
-Currently studying CompTIA Network+ (N10-009).
+Currently working as an AV Installer and Technician, studying to pass the CompTIA Network+ (N10-009) exam.
 
 ## Status
 Lab environment setup in progress.
