@@ -9,13 +9,13 @@ Windows Server administration, AD, and Group Policy.
 - Build documentation habits for IT work
 
 ## Lab Environment
-- Host: Ubuntu Studio (Linux)
-- Hypervisor: VirtualBox (in progress)
-- VMs planned: 1x Windows Server 2022 DC, 1x Windows 11 client
+- Host: Windows 11 (i7-12700H, 16GB RAM)
+- Hypervisor: VirtualBox
+- VMs: DC01 (Windows Server 2022, lab.local domain controller), Windows 11 client (planned)
 
 ## Background
 Marine Corps veteran transitioning into IT.
 Currently studying CompTIA Network+ (N10-009).
 
 ## Status
-🔧 Lab environment setup in progress.
+Lab environment setup in progress.
