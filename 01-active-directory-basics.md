@@ -8,7 +8,7 @@ Install Active Directory Domain Services on Windows Server 2022
 and perform basic user account management tasks.
 
 ### Environment
-- Host: Windows 11 (Gaming Laptop)
+- Host: Windows 11
 - Hypervisor: VirtualBox
 - VM: Windows Server 2022 Standard Evaluation (Desktop Experience)
 - RAM allocated: 4096 MB
