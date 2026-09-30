@@ -4,9 +4,9 @@
 September 29, 2026
 
 ### Objectives
-Create Oganizational Units (such as IT, HR, and Management), Move users into correct units, Create users inside units, Create groups within units and adding members to groups, and reset user passwords.
+Create Organizational Units (such as IT, HR, and Management), Move users into correct units, Create users inside units, Create groups within units and adding members to groups, and reset user passwords.
 
-### Enviroment
+### Environment
 - Host: Windows 11
 - Hypervisor: VirtualBox
 - VM: Windows Server 2022 Standard Evaluation (Desktop Experience)
@@ -49,7 +49,9 @@ Create Oganizational Units (such as IT, HR, and Management), Move users into cor
 ### Key Takeaways
 - Creating units and groups helps keep order within the user directory of the Organization
 - Moving users is very simple in case a user is created outside of a unit or group or roles change within the Organization.
-- Securtiy groups control permissions for multiple users at once
+- Security groups control permissions for multiple users at once
+- Disabled accounts show a down arrow icon in ADUC — quick visual indicator of account status
+- Resetting a password and unlocking an account can be done in one step — always check "Unlock the user's account" when resetting
 
 ### Issues / Troubleshooting
 No issues
