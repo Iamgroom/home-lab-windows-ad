@@ -17,5 +17,11 @@ Windows Server administration, AD, and Group Policy.
 Marine Corps veteran transitioning into IT.
 Currently working as an AV Installer and Technician, studying to pass the CompTIA Network+ (N10-009) exam.
 
+## Lab Entries
+1. [Active Directory Basics](01-active-directory-basics.md)
+2. [OUs, Groups, and Password Resets](02-ou-groups-passwords-reset.md)
+3. [Group Policy Basics](03-group-policy-basics.md)
+4. [Windows 11 Client and Domain Join](04-domain-join-client.md)
+
 ## Status
-Lab environment setup in progress.
+✅ Domain controller, OU structure, GPOs, and domain-joined client complete.
